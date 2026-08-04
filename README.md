@@ -8,19 +8,25 @@ Builder from **Athens**. I work on private products for a living and open-source
 
 <table>
   <tr>
-    <td width="70%">
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/soulis-1256/assemblrr">assemblrr</a></h3>
       <p>
         One-command bootstrap for a self-hosted media stack — Docker, VPN-aware, auto-wires Jellyfin, *arr, Seerr, and more.
       </p>
       <p>
-        <a href="https://github.com/soulis-1256/assemblrr"><img alt="assemblrr stars" src="https://img.shields.io/github/stars/soulis-1256/assemblrr?style=flat&logo=github" /></a>
+        <a href="https://github.com/soulis-1256/assemblrr"><img alt="stars" src="https://img.shields.io/github/stars/soulis-1256/assemblrr?style=flat&logo=github" /></a>
         <a href="https://github.com/soulis-1256/assemblrr"><img alt="license" src="https://img.shields.io/github/license/soulis-1256/assemblrr?style=flat" /></a>
       </p>
     </td>
-    <td>
+    <td width="50%" valign="top">
       <h3><a href="https://github.com/soulis-1256/eagle.nvim">eagle.nvim</a></h3>
-      <p>Neovim floating window for diagnostics &amp; LSP info.</p>
+      <p>
+        Neovim floating window for diagnostics &amp; LSP info.
+      </p>
+      <p>
+        <a href="https://github.com/soulis-1256/eagle.nvim"><img alt="stars" src="https://img.shields.io/github/stars/soulis-1256/eagle.nvim?style=flat&logo=github" /></a>
+        <a href="https://github.com/soulis-1256/eagle.nvim"><img alt="license" src="https://img.shields.io/github/license/soulis-1256/eagle.nvim?style=flat" /></a>
+      </p>
     </td>
   </tr>
 </table>

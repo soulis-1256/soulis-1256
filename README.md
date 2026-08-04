@@ -1,8 +1,6 @@
 # Hey, I'm Tasos
 
-Software engineer from **Athens, Greece**. I work on private products for a living and open-source the tools I wish existed when I needed them.
-
----
+Software engineer from **Athens, Greece**. I work on proprietary products for a living and open-source some cool tools on my free time.
 
 ### Featured
 
@@ -11,7 +9,7 @@ Software engineer from **Athens, Greece**. I work on private products for a livi
     <td width="50%" valign="top">
       <h3><a href="https://github.com/soulis-1256/assemblrr">assemblrr</a></h3>
       <p>
-        One-command bootstrap for a self-hosted media stack — Docker, VPN-aware, auto-wires Jellyfin, *arr, Seerr, and more.
+        A lightweight self-hosted media stack using docker.
       </p>
       <p>
         <a href="https://github.com/soulis-1256/assemblrr"><img alt="stars" src="https://img.shields.io/github/stars/soulis-1256/assemblrr?style=flat&logo=github" /></a>
@@ -31,11 +29,7 @@ Software engineer from **Athens, Greece**. I work on private products for a livi
   </tr>
 </table>
 
----
-
 ### Stats
-
-<!-- Official github-readme-stats.vercel.app is currently paused (503). Using maintained mirrors. -->
 
 <p align="center">
   <img height="165" src="https://github-readme-stats-plus.vercel.app/api?username=soulis-1256&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />

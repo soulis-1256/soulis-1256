@@ -1,6 +1,6 @@
 # Hey, I'm Tasos
 
-Builder from **Athens**. I work on private products for a living and open-source the tools I wish existed when I needed them.
+Software engineer from **Athens, Greece**. I work on private products for a living and open-source the tools I wish existed when I needed them.
 
 ---
 
@@ -45,13 +45,3 @@ Builder from **Athens**. I work on private products for a living and open-source
 <p align="center">
   <img src="https://github-readme-stats-plus.vercel.app/api/top-langs/?username=soulis-1256&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=soulis-1256&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" />
-</p>
-
----
-
-### Elsewhere
-
-[PayPal](https://www.paypal.com/paypalme/soulis1256) · [Assemblrr discussion](https://github.com/soulis-1256/assemblrr/discussions/1)

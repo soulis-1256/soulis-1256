@@ -1,6 +1,4 @@
-# Hey, I'm Tasos
-
-Software engineer from **Athens, Greece**. I work on proprietary products for a living and open-source some cool tools on my free time.
+Hi, I'm Tasos, informatics and computer engineer from Athens, Greece.
 
 ### Featured
 

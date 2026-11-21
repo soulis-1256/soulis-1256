@@ -1,10 +1,10 @@
-Hi, I'm Tasos, informatics and computer engineer from Athens, Greece.
+Hi, I'm Tasos, an Informatics & Computer Engineer based in Athens, Greece — focused on end-to-end product engineering, high-performance systems, and applied AI.
 
 ### Featured
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/soulis-1256/assemblrr">assemblrr</a></h3>
       <p>
         A lightweight self-hosted media stack using docker.
@@ -14,7 +14,7 @@ Hi, I'm Tasos, informatics and computer engineer from Athens, Greece.
         <a href="https://github.com/soulis-1256/assemblrr"><img alt="license" src="https://img.shields.io/github/license/soulis-1256/assemblrr?style=flat" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <h3><a href="https://github.com/soulis-1256/eagle.nvim">eagle.nvim</a></h3>
       <p>
         Neovim floating window for diagnostics &amp; LSP info.
@@ -22,6 +22,16 @@ Hi, I'm Tasos, informatics and computer engineer from Athens, Greece.
       <p>
         <a href="https://github.com/soulis-1256/eagle.nvim"><img alt="stars" src="https://img.shields.io/github/stars/soulis-1256/eagle.nvim?style=flat&logo=github" /></a>
         <a href="https://github.com/soulis-1256/eagle.nvim"><img alt="license" src="https://img.shields.io/github/license/soulis-1256/eagle.nvim?style=flat" /></a>
+      </p>
+    </td>
+    <td width="33%" valign="top">
+      <h3><a href="https://github.com/soulis-1256/hadal-vpn">hadal-vpn</a></h3>
+      <p>
+        Linux-native WireGuard VPN daemon, CLI &amp; tray GUI for Surfshark.
+      </p>
+      <p>
+        <a href="https://github.com/soulis-1256/hadal-vpn"><img alt="stars" src="https://img.shields.io/github/stars/soulis-1256/hadal-vpn?style=flat&logo=github" /></a>
+        <a href="https://github.com/soulis-1256/hadal-vpn"><img alt="license" src="https://img.shields.io/github/license/soulis-1256/hadal-vpn?style=flat" /></a>
       </p>
     </td>
   </tr>

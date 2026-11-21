@@ -1,4 +1,4 @@
-Hi, I'm Tasos, an Informatics & Computer Engineer based in Athens, Greece — focused on end-to-end product engineering, high-performance systems, and applied AI.
+Hi, I'm Tasos, an Informatics & Computer Engineer from Athens, Greece — building across the stack, from production web applications and applied AI systems to low-level systems and developer tooling.
 
 ### Featured
 
